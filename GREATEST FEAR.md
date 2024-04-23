@@ -1,6 +1,3 @@
-# Computer-Sci
-Computer Science learning git
-
 # My Greatest Fear
 
 ### Part 1
